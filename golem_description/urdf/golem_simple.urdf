@@ -10,13 +10,13 @@
         <collision>
             <origin rpy="0 0 0" xyz="0 0 0"/>
             <geometry>
-                <mesh filename="package://opera_description/models/golembase.dae"/>
+                <mesh filename="package://golem_description/models/golembase.dae"/>
             </geometry>
         </collision>
         <visual>
             <origin rpy="0 0 0" xyz="0 0 0"/>
             <geometry>
-                <mesh filename="package://opera_description/models/golembase.dae"/>
+                <mesh filename="package://golem_description/models/golembase.dae"/>
             </geometry>
         </visual>
     </link>
@@ -30,13 +30,13 @@
         <collision>
             <origin rpy="0 0 0" xyz="0 0 0"/>
             <geometry>
-                <mesh filename="package://opera_description/models/llanta2.dae"/>
+                <mesh filename="package://golem_description/models/llanta2.dae"/>
             </geometry>
         </collision>
         <visual>
             <origin rpy="0 0 0" xyz="0 0 0"/>
             <geometry>
-                <mesh filename="package://opera_description/models/llanta2.dae"/>
+                <mesh filename="package://golem_description/models/llanta2.dae"/>
             </geometry>
         </visual>
     </link>
@@ -50,13 +50,13 @@
         <collision>
             <origin rpy="0 0 0" xyz="0 0 0"/>
             <geometry>
-                <mesh filename="package://opera_description/models/llanta2.dae"/>
+                <mesh filename="package://golem_description/models/llanta2.dae"/>
             </geometry>
         </collision>
         <visual>
             <origin rpy="0 0 0" xyz="0 0 0"/>
             <geometry>
-                <mesh filename="package://opera_description/models/llanta2.dae"/>
+                <mesh filename="package://golem_description/models/llanta2.dae"/>
             </geometry>
         </visual>
     </link>
